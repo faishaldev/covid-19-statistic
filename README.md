@@ -2,8 +2,6 @@
 
 _Repository_ ini berisi informasi data COVID-19 sederhana yang diambil dari API [covid-19-api](https://covid19.mathdro.id/api/)
 
-[Demo](https://covid-19-statistic-musshal.netlify.app/)
-
 ## Library Reference
 
 - @babel/core": "^7.15.0",
